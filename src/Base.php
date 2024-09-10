@@ -76,7 +76,7 @@ class Base
 
     /**
      * 获取回调数据回复内容
-     * @return array
+     * @return json
      */
     public function getNotifySuccessReply()
     {
